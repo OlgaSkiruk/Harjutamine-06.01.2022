@@ -1,0 +1,1 @@
+GitHub on DevOps Engineer Masters Programm, mis võimaldab hallata ühte faili või projekti või prtotsessi sünkroonselt. See on rekendus. mis võimaldab teha väga sujuvalt koostööd.    
