@@ -1,1 +1,3 @@
 GitHub on DevOps Engineer Masters Programm, mis võimaldab hallata ühte faili või projekti või prtotsessi sünkroonselt. See on rekendus. mis võimaldab teha väga sujuvalt koostööd.    
+Teise branchi tekst: Planeerin kasutada GitHubi oma projetide töös. Näiteks DataCenteri tellimuste puhul saavad erinevad insenerid teha muudatusi rackide skeemidel.
+GitHub platvorm asutati 2007. aastal ja oli kasutuses alates 2008. aastal. Asutajateks olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ning Scott Chacon.
